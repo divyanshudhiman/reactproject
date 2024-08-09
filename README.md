@@ -13,7 +13,7 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
+### https://divyanshudhiman.github.io/reactproject
 This URL has the application deployed in
 
 ## Prerequisites
@@ -29,7 +29,7 @@ npm install -g create-react-app
 ```
 ## Live Application URL
 
-The Application is deployed in https://aditya-sridhar.github.io/simple-reactjs-app
+The Application is deployed in https://divyanshudhiman.github.io/reactproject
 
 Click on the link to see the application
 
